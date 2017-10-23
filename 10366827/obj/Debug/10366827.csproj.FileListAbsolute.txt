@@ -1,0 +1,8 @@
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\bin\Debug\10366827.exe.config
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\bin\Debug\10366827.exe
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\bin\Debug\10366827.pdb
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\obj\Debug\10366827.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\obj\Debug\_10366827.Properties.Resources.resources
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\obj\Debug\10366827.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\obj\Debug\10366827.exe
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\10366827\obj\Debug\10366827.pdb

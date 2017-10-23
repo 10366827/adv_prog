@@ -1,0 +1,13 @@
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\GUI.exe
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\GUI.pdb
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.exe
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.pdb
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\obj\Debug\GUI.AddBetForm.resources
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\10366827.pdb
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\10366827.dll
+C:\Users\Gary\Documents\dbs\advprog\assignment\10366827\GUI\bin\Debug\10366827.dll.config
